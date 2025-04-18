@@ -6,6 +6,8 @@ Building on these insights, we propose 7 innovative approaches inspired by tradi
 Through these advancements, we progressively tackle the aforementioned challenges and validate our methods through extensive experimentation.
 We hope our study not only provides valuable guidance for future research but also offers a comprehensive understanding of the challenges and potential solutions in prompt optimization.
 
+(https://arxiv.org/abs/2503.13413)
+
 ## Overview
 
 This project is built upon the excellent work of **TextGrad** ([GitHub Repository](https://github.com/zou-group/textgrad)). Thanks for their excellent work.
