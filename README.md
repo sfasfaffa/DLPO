@@ -8,9 +8,6 @@ We hope our study not only provides valuable guidance for future research but al
 
 (https://arxiv.org/abs/2503.13413)
 
-## Overview
-
-This project is built upon the excellent work of **TextGrad** ([GitHub Repository](https://github.com/zou-group/textgrad)). Thanks for their excellent work.
 ## Setup and Configuration
 
 ### API Configuration
@@ -44,3 +41,5 @@ Under the current hyperparameters, the model only uses TSA and is trained on the
 ## Acknowledgments
 
 We are looking forward to someone who can further improve our work!
+
+This project is built upon the work of **TextGrad** ([GitHub Repository](https://github.com/zou-group/textgrad)). Thanks for their excellent work.
