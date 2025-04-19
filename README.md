@@ -43,3 +43,13 @@ Under the current hyperparameters, the model only uses TSA and is trained on the
 We are looking forward to someone who can further improve our work!
 
 This project is built upon the work of **TextGrad** ([GitHub Repository](https://github.com/zou-group/textgrad)). Thanks for their excellent work.
+
+If you find our work inspiring, please cite:
+
+```bibtex
+@article{peng2025dlpo,
+  title={DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective},
+  author={Peng, Dengyun and Zhou, Yuhang and Chen, Qiguang and Liu, Jinhao and Chen, Jingjing and Qin, Libo},
+  journal={arXiv preprint arXiv:2503.13413},
+  year={2025}
+}
