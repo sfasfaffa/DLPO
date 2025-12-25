@@ -8,6 +8,8 @@ We hope our study not only provides valuable guidance for future research but al
 
 (https://arxiv.org/abs/2503.13413)
 
+(https://aclanthology.org/2025.findings-emnlp.441/)
+
 ## Setup and Configuration
 
 ### API Configuration
